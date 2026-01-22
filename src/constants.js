@@ -1,1 +1,1 @@
-export const wDB_NAME = "ytx";
+export const DB_NAME = "ytx";
